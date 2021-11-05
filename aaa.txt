@@ -1,0 +1,10 @@
+a.txt
+aaa
+aaa.pub
+aaa.txt
+b.txt
+c.txt
+d.txt
+e.txt
+readme.md
+新建文件夹/
