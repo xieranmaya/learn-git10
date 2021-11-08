@@ -1,5 +1,6 @@
 a.txt
 aaa
+000000000000000000
 aaa.pub
 aaa.txt
 b.txt
@@ -7,4 +8,3 @@ c.txt
 d.txt
 e.txt
 readme.md
-新建文件夹/
